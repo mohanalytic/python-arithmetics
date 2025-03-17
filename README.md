@@ -1,1 +1,1 @@
-# python-arithmetics
+# arithmetics
